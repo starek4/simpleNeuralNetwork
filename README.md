@@ -3,5 +3,5 @@ Demonstration of learning simple back propagation neural network. This network s
 
 You can download Linux/X11 application from [releases](https://github.com/starek4/simpleNeuralNetwork/releases/latest).
 
-## How application looks like?
+## How does application look like?
 ![Application](https://starekit.cz/git/nn.png)
